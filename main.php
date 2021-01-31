@@ -143,8 +143,8 @@
                         <p class="tab_one"><span class="php_variable">$d</span> <span class="php_operator">=</span> <span class="php_string">'Это число находится между 15 и 20'</span><span class="php_punctuation">;</span></p>
                         <p><span class="php_comment">// Ниже представлен код, который выводит на экран, значения кода представленного выше</span></p>
                         <p><span class="php_operator">echo</span> <span class="php_variable">$a</span><span class="php_punctuation">,</span> <span class="php_string">' '</span><span class="php_punctuation">,</span> <span class="php_variable">$b</span><span class="php_punctuation">,</span> <span class="php_string">' '</span><span class="php_punctuation">,</span> <span class="php_variable">$c</span><span class="php_punctuation">;</span></p>
-                        <p><span class="php_variable">$a</span> <span class="php_operator">=</span> 10<span class="php_punctuation">;</span></p>
-                        <p><span class="php_variable">$b</span> <span class="php_operator">=</span> 20<span class="php_punctuation">;</span></p>
+                        <p><span class="php_variable">$a</span> <span class="php_operator">=</span> <span class="php_integer">10</span><span class="php_punctuation">;</span></p>
+                        <p><span class="php_variable">$b</span> <span class="php_operator">=</span> <span class="php_integer">20</span><span class="php_punctuation">;</span></p>
                         <p><span class="php_variable">$c</span> <span class="php_operator">=</span> <span class="php_variable">$a</span> <span class="php_operator">+</span> <span class="php_variable">$b</span><span class="php_punctuation">;</span></p>
                         <p><span class="php_operator">echo</span> <span class="php_variable">$c</span><span class="php_punctuation">;</span></p>
                         <p><span class="php_operator">echo</span> <span class="php_variable">$d</span><span class="php_punctuation">;</span></p>
